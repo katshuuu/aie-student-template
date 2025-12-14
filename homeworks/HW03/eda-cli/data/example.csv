@@ -1,0 +1,11 @@
+user_id,age,gender,country,session_id,constant_col,income
+1,25,M,US,sess_001,1,50000
+2,30,F,US,sess_002,1,60000
+3,22,F,DE,sess_003,1,
+4,,M,FR,sess_004,1,70000
+5,35,M,US,sess_005,1,65000
+5,35,M,US,sess_006,1,65000
+6,40,,IT,sess_007,1,72000
+7,28,F,ES,sess_008,1,48000
+8,31,M,PL,sess_009,1,51000
+9,29,F,NL,sess_010,1,53000
